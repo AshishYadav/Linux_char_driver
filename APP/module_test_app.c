@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /* The name of the device file */
-#define DEVICE_FILE_NAME "/dev/collinsdev-0"
+#define DEVICE_FILE_NAME "/dev/collinsdev-1"
 
 int main()
 {
